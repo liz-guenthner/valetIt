@@ -1,0 +1,39 @@
+.center-buttons {
+    width:200px;
+    margin: 0 auto;
+}
+.valet-registration-button.btn {
+    display:block;
+    margin: 30px auto;
+}
+.valet-registration-submit-button.btn {
+    display:block;
+    margin: 0 auto;
+}
+
+.valet-registration-button.btn-primary,
+.valet-registration-submit-button.btn-primary {
+    color: #404040;
+    background-color: #f6de96;
+    border:none;
+}
+.valet-registration-button.btn-primary:hover,
+.valet-registration-submit-button.btn-primary:hover {
+    color: #404040;
+    background-color: #e4c670;
+    border:none;
+    text-decoration: none;
+}
+
+.valet-registration-button.modal-dialog {
+    max-width: 350px !important;
+    position: absolute !important;
+    left: 0 !important;
+    right: 0 !important;
+    margin: 150px auto 0 auto !important;
+  }
+
+  .modal-footer {
+      margin: 0 auto;
+  }
+  
